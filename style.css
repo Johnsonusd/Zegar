@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+h2 {
+    margin-top: 20%;
+}
+#zegar {
+    scale: 1.2;
+    background-color: black;
+    color: red;
+    border: 5px solid gray;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 20px;
+}
